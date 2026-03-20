@@ -5,4 +5,5 @@
 
 ## 講義スライド
 講義スライドは、以下のGoogle Slidesで作成。
+
 保管場所は、[Google Drive/一貫校プロジェクト/2026/オンデマンド講座/Python Step 1/講義スライド](https://drive.google.com/drive/u/0/folders/1VqYcDbrDO8SkIEikWBhAKLIUfAXsFfPf)。
